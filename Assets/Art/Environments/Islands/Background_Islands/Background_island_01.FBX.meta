@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: f87836d0eb30c36459463d84b221736a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: game prop
+    100004: house
+    100006: house2
+    100008: platformhouse
+    100010: rock
+    100012: rock with boat
+    100014: rock2
+    100016: selem
+    100018: skull
+    100020: Rock
+    100022: rock_Big
+    400000: //RootNode
+    400002: game prop
+    400004: house
+    400006: house2
+    400008: platformhouse
+    400010: rock
+    400012: rock with boat
+    400014: rock2
+    400016: selem
+    400018: skull
+    400020: Rock
+    400022: rock_Big
+    2100000: 'Material #43'
+    2100002: 'Material #25'
+    2300000: game prop
+    2300002: house
+    2300004: house2
+    2300006: platformhouse
+    2300008: rock
+    2300010: rock with boat
+    2300012: rock2
+    2300014: selem
+    2300016: skull
+    2300018: Rock
+    2300020: rock_Big
+    3300000: game prop
+    3300002: house
+    3300004: house2
+    3300006: platformhouse
+    3300008: rock
+    3300010: rock with boat
+    3300012: rock2
+    3300014: selem
+    3300016: skull
+    3300018: Rock
+    3300020: rock_Big
+    4300000: platformhouse
+    4300002: game prop
+    4300004: skull
+    4300006: rock
+    4300008: rock2
+    4300010: rock with boat
+    4300012: house
+    4300014: house2
+    4300016: selem
+    4300018: rock_Big
+    4300020: Rock
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 62f9aea61b068954e93784ed83fb1d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: 74a7ee6309ecff44a9124e211f755fde, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

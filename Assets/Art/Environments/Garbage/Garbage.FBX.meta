@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 71cda94197556004298352ff1d23e57a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Fish_Skeleton
+    100002: //RootNode
+    100004: Garbage_Bag
+    100006: Glass_Drink
+    100008: Pira_Cocla
+    100010: Sardeen_can
+    400000: Fish_Skeleton
+    400002: //RootNode
+    400004: Garbage_Bag
+    400006: Glass_Drink
+    400008: Pira_Cocla
+    400010: Sardeen_can
+    2100000: Garbage
+    2300000: Fish_Skeleton
+    2300002: Garbage_Bag
+    2300004: Glass_Drink
+    2300006: Pira_Cocla
+    2300008: Sardeen_can
+    3300000: Fish_Skeleton
+    3300002: Garbage_Bag
+    3300004: Glass_Drink
+    3300006: Pira_Cocla
+    3300008: Sardeen_can
+    4300000: Pira_Cocla
+    4300002: Sardeen_can
+    4300004: Glass_Drink
+    4300006: Garbage_Bag
+    4300008: Fish_Skeleton
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://ocean-saver.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">615597482909</string>
+  <string name="google_storage_bucket" translatable="false">ocean-saver.appspot.com</string>
+  <string name="project_id" translatable="false">ocean-saver</string>
+  <string name="google_api_key" translatable="false">AIzaSyA0ZGezzVZxhDvi4lURpeBUAzqFlWZZO9c</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA0ZGezzVZxhDvi4lURpeBUAzqFlWZZO9c</string>
+  <string name="google_app_id" translatable="false">1:615597482909:android:2d6d735134641ecc</string>
+  <string name="default_web_client_id" translatable="false">615597482909-3hlbmekalkgh8nlh7k6q4q13vuufa8an.apps.googleusercontent.com</string>
+</resources>

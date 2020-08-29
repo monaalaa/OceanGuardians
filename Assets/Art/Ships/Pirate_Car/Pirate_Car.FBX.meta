@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 2d0018208fd524c4bab8982ea377e4ad
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 0_Cylinder032
+    100002: Back_Right_wheel
+    100004: Bone004
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Buttom_Right_Wheel
+    100014: Cannon_Bone
+    100016: Cannon_Fire
+    100018: Driving_wheel
+    100020: Dummy_Pirate_Bomber
+    100022: Dummy_Pirate_boss
+    100024: Front_Right_Wheel
+    100026: Pirate_Bomber_Bone
+    100028: //RootNode
+    100030: Pirate_Location
+    100032: Ship_back
+    100034: Ship_Front
+    100036: Ship_middle
+    100038: Ship_Root
+    100040: Stairs_End
+    100042: Stairs_Middle
+    100044: Stairs_Root
+    100046: Table
+    100048: Table_Rig
+    100050: Wheel
+    100052: wheels_front
+    100054: Korsan_Kola_01
+    100056: Korsan_Kola_02
+    100058: Korsan_Kola_02_Bone
+    100060: Korsan_Kola_02_Dummy
+    100062: Korsan_Kola_Bone
+    100064: Korsan_Kola_Dummy
+    100066: Mashroob_Karsna
+    100068: Mashroob_Karsna_Bone
+    100070: Mashroob_Karsna_Dummy
+    100072: Sardeen
+    100074: Sardeen_Bone
+    100076: Sardeen_Dummy
+    100078: Trash_Bag
+    100080: Trash_Bag_Bone
+    100082: Trash_Dummy
+    400000: 0_Cylinder032
+    400002: Back_Right_wheel
+    400004: Bone004
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Buttom_Right_Wheel
+    400014: Cannon_Bone
+    400016: Cannon_Fire
+    400018: Driving_wheel
+    400020: Dummy_Pirate_Bomber
+    400022: Dummy_Pirate_boss
+    400024: Front_Right_Wheel
+    400026: Pirate_Bomber_Bone
+    400028: //RootNode
+    400030: Pirate_Location
+    400032: Ship_back
+    400034: Ship_Front
+    400036: Ship_middle
+    400038: Ship_Root
+    400040: Stairs_End
+    400042: Stairs_Middle
+    400044: Stairs_Root
+    400046: Table
+    400048: Table_Rig
+    400050: Wheel
+    400052: wheels_front
+    400054: Korsan_Kola_01
+    400056: Korsan_Kola_02
+    400058: Korsan_Kola_02_Bone
+    400060: Korsan_Kola_02_Dummy
+    400062: Korsan_Kola_Bone
+    400064: Korsan_Kola_Dummy
+    400066: Mashroob_Karsna
+    400068: Mashroob_Karsna_Bone
+    400070: Mashroob_Karsna_Dummy
+    400072: Sardeen
+    400074: Sardeen_Bone
+    400076: Sardeen_Dummy
+    400078: Trash_Bag
+    400080: Trash_Bag_Bone
+    400082: Trash_Dummy
+    2100000: 'Material #25'
+    2300000: Back_Right_wheel
+    2300002: Buttom_Right_Wheel
+    2300004: Front_Right_Wheel
+    2300006: wheels_front
+    3300000: Back_Right_wheel
+    3300002: Buttom_Right_Wheel
+    3300004: Front_Right_Wheel
+    3300006: wheels_front
+    4300000: 0_Cylinder032
+    4300002: Cannon_Fire
+    4300004: Wheel
+    4300006: wheels_front
+    4300008: Front_Right_Wheel
+    4300010: Buttom_Right_Wheel
+    4300012: Back_Right_wheel
+    4300014: Table
+    4300016: Trash_Bag
+    4300018: Mashroob_Karsna
+    4300020: Sardeen
+    4300022: Korsan_Kola_02
+    4300024: Korsan_Kola_01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: 0_Cylinder032
+    13700002: Cannon_Fire
+    13700004: Table
+    13700006: Wheel
+    13700008: Korsan_Kola_01
+    13700010: Korsan_Kola_02
+    13700012: Mashroob_Karsna
+    13700014: Sardeen
+    13700016: Trash_Bag
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 78fa617d1c525e6409e8b3dd2c751dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: c5c339d11f33493449cfa673fe6ad8b0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
